@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 预训练模型文件
+model/
+*.pt
+
+# 人脸数据
+faces/
+
+# 系统文件
+.DS_Store
+Thumbs.db
